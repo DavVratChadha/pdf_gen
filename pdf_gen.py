@@ -4,7 +4,7 @@ from PIL import Image
 
 #Enter start and End number of images
 start = 1
-end = 2
+end = 200
 #Insert image type extension here:
 im_type = ".png"
 #Insert the directory here
